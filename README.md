@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Sou estudante de Ciência da Computação na PUCRS, com foco em desenvolvimento web frontend. Trabalho principalmente com JavaScript, Java, HTML, CSS, além de conhecimentos em Node.js, React e Typescript.
-Aqui compartilho meus projetos e estudos
+Aqui compartilho meus projetos e estudos.
 
 ---
 
