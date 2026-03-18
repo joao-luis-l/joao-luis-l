@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Luís
+#João Luís
 
 **`Desenvolvedor Front-End`**
 
